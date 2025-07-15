@@ -1,8 +1,4 @@
-# Reddit User Persona
-
 Generates a user persona from a Reddit profile.
-
-## Setup
 
 1. Clone this repo:
    ```bash
