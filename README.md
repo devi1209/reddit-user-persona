@@ -1,7 +1,7 @@
 ## 🔧 Setup Instructions
 
 # Clone the repo
-git clone https://github.com/your_username/reddit-user-persona.git
+git clone 
 cd reddit-user-persona
 
 # Create a virtual environment
